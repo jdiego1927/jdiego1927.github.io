@@ -1,0 +1,9 @@
+title: Juandiego
+description: Data Scientist | Data Analyst
+url: https://jdiego1927.github.io
+baseurl: ""
+
+remote_theme: hydecorp/hydejack@v9
+
+plugins:
+  - jekyll-include-cache
