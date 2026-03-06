@@ -8,6 +8,11 @@ theme_color:           rgb(25,55,71)
 
 google_fonts:          false
 
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
 hydejack:
   post_addons:         [about, newsletter, related, random, comments]
   project_addons:      [about, newsletter, other, comments]
