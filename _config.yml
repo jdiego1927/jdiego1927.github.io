@@ -1,5 +1,13 @@
 lang:                  en
 title:                 Juandiego Saavedra-Ordonez
+tag-line:              Physics Engineer | Data Scientist | Data Analyst
+description:           Portfolio of Data Science and Machine Learning projects
+author:
+  name: Juandiego Saavedra-Ordonez
+  email: jdiego1906@gmail.com
+social:
+  github: jdiego1927
+  linkedin: Juandiego Saavedra-Ordonez
 copyright:             © 2024. All rights reserved.
 
 accent_image:          /assets/img/sidebar-bg.jpg
