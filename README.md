@@ -1,8 +1,8 @@
 
 
-# Hydejack
+# Juandiego's portfolio
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+Welcome, this is a test  
 
 
 
