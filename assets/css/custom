@@ -1,0 +1,12 @@
+body {
+  background-color: #000000;
+}
+
+.sidebar {
+  background-color: #000000;
+}
+
+.content {
+  background-color: #000000;
+  color: #ffffff;
+}
