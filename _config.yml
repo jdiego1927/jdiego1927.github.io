@@ -1,18 +1,22 @@
 lang:                  en
-image:
-  path: /assets/img/mon.jpg
+logo:                  /assets/img/logo.png
 title:                 Juandiego Saavedra-Ordonez
 tag-line:              Physics Engineer | Data Scientist | Data Analyst
-description:           Portfolio of Data Science and Machine Learning projects
-author:
-  name: Juandiego Saavedra-Ordonez
-  email: jdiego1906@gmail.com
+description:           Portfolio of Data Science and Machine Learning projectsmenu:
+  - title: Personal Blog
+    url:   /blog/
+  - title: Projects
+    url:   /projects/
+  - title: Resume
+    url:   /resume/
+    
 social:
-  github: jdiego1927
-  linkedin: Juandiego Saavedra-Ordonez
+  email: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNxPKzFVFNMdwVVwDNBMGLzvcdslqLzQDWzrGqrtsrhrBTKxZGchWnQKpThSWmTSRHpxBV
+  github: https://github.com/jdiego1927
+  linkedin: https://www.linkedin.com/in/juandiego-saavedra-a7a813272/
 copyright:             © 2024. All rights reserved.
 
-accent_image:          /assets/img/mon.jpg
+accent_image:          /assets/img/red_black_bg.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25,55,71)
 
