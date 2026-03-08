@@ -1,4 +1,6 @@
 lang:                  en
+image:
+  path: /assets/img/mon.jpg
 title:                 Juandiego Saavedra-Ordonez
 tag-line:              Physics Engineer | Data Scientist | Data Analyst
 description:           Portfolio of Data Science and Machine Learning projects
