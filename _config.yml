@@ -1,8 +1,9 @@
 lang:                  en
 logo:                  /assets/img/mon.jpg
 title:                 Juandiego Saavedra-Ordonez
-tag-line:              Physics Engineer | Data Scientist | Data Analyst
+tagline:              Physics Engineer | Data Scientist | Data Analyst
 description:           Portfolio of Data Science and Machine Learning projects
+keywords: [engineering, software, portfolio]
 menu:
   - title: About me
     url:   /blog/
@@ -12,9 +13,20 @@ menu:
     url:   /resume/
     
 author:
+  name: Juandiego Saavedra-Ordonez
+  email: jdiego1906@gmail.com
+  picture: /assets/img/mon.jpg
+  about: |
+    Hi! I'm Juandiego, a tech/systems engineer based in Canada.
+    I enjoy solving complex problems and building useful things.
+    Feel free to explore my projects and reach out!
+
+
+social:
   email: jdiego1906@gmail.com
   github: https://github.com/jdiego1927
   linkedin: https://www.linkedin.com/in/juandiego-saavedra-a7a813272/
+
 copyright:             © 2024. All rights reserved.
 
 
