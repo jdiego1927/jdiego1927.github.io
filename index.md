@@ -1,6 +1,9 @@
 ---
 layout: about
 title: Curiosity, Data, Impact
+description: <
+  HOME/ABOUT ME
+hide_description: true
 cover: true
 ---
 
