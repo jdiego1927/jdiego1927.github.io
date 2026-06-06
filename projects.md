@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Real signals. Real images. Real impact.
+title: Projects
+description: >
+  Real signals. Real images. Real impact.
+hide_description: false
 ---
 
 ## Published research — ECG signal analysis for heart rate variability
