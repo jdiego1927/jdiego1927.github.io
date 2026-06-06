@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+permalink: /projects/
 description: >
   Real signals. Real images. Real impact.
 hide_description: false
