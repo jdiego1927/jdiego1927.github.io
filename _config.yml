@@ -6,7 +6,7 @@ description:           Portfolio of Data Science and Machine Learning projects
 keywords: [physics engineering, data science, machine learning, biomedical, portfolio]
 menu:
   - title: About me
-    url:   /blog/
+    url:   /
   - title: Projects
     url:   /projects/
   - title: Resume
@@ -20,12 +20,10 @@ author:
     Hi! I'm Juandiego, a tech/systems engineer based in Canada.
     I enjoy solving complex problems and building useful things
     Feel free to explore my projects and reach out!
-
-
-social:
-  email: jdiego1906@gmail.com
-  github: jdiego1927
-  linkedin: juandiego-saavedra-a7a813272
+  social:
+    email: jdiego1906@gmail.com
+    github: jdiego1927
+    linkedin: juandiego-saavedra-a7a813272
 
 copyright:             © 2024. All rights reserved.
 
@@ -61,7 +59,7 @@ hydejack:
 
   use_lsi:             true
   cookies_banner:      true
-  advertise:           true
+  advertise:           false
   hide_dates:          false
   hide_last_modified:  false
 
