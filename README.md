@@ -33,13 +33,10 @@ I’m a Physics Engineer based in Canada and focused on the intersection of data
 
 ## Contact
 
-- 📧 [jdiego1906@gmail.com](mailto:jdiego1906@gmail.com)
+- 📧 [jdiego1906@gmail.com](https://mail.google.com/mail/?view=cm&to=jdiego1906@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/juandiego-saavedra-a7a813272/)
 - 💻 [GitHub](https://github.com/jdiego1927)
 
 ---
 
 *Actively building new projects.*
-
-<p align="center">Hydejack's cover page on a variety of screen sizes.
-
