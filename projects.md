@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 description: >
   Real signals. Real images. Real impact.
 hide_description: false
@@ -25,7 +25,6 @@ a high-complexity scenario where signal quality is critical.
 🔗 View Publication
 </a>
 
----
 
 ## Blood pressure estimation based on physiological signals and AI algorithms
 *Thesis project — Honorable mention · Universidad del Cauca*
@@ -42,7 +41,6 @@ implementing machine learning and signal processing techniques to enhance accura
 **Tech:** Python · Signal processing · Scikit-learn · NumPy  
 🔗 *Code coming soon on GitHub*
 
----
 
 ## Prostate cancer detection from pelvic imaging
 *Computer vision · Medical imaging*
@@ -58,8 +56,6 @@ features extracted from pelvic images.
 
 **Tech:** Python · Computer vision · Scikit-learn · Pandas  
 🔗 *Code coming soon on GitHub*
-
----
 
 ## More Coming...
 Actively publishing new projects. Watch this space!
