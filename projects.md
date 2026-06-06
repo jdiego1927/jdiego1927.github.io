@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
+title: Real signals. Real images. Real impact.
 permalink: /projects/
 description: >
-  Real signals. Real images. Real impact.
-hide_description: false
+    HOME/PROJECTS
+hide_description: true
 ---
 
 ## Published research — ECG signal analysis for heart rate variability
