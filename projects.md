@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 description: >
   Real signals. Real images. Real impact.
 hide_description: false
