@@ -9,8 +9,6 @@ color:white; border-radius:6px; text-decoration:none; font-weight:bold;">
 ⬇️ Download resume (PDF)
 </a>
 
-<br><br>
-
 ## Summary
 
 Data Scientist and Engineering Physicist with strong analytical and problem-solving skills,
