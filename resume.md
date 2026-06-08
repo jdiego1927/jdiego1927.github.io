@@ -61,7 +61,7 @@ processes, and supporting data-driven decision-making.
   -Supported database migration and workflow optimization for health data management. 
 <br>
   -Generated and maintained detailed patient treatment reports and performance statistics for executive review and strategic decision-      making. 
-<br><br>
+  
 ## Education
 <br>
 **BSc in Engineering Physics (With Distinction) - Universidad del Cauca, Colombia · Dec 2024**
