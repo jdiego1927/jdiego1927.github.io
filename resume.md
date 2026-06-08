@@ -60,8 +60,7 @@ processes, and supporting data-driven decision-making.
 <br>
   -Supported database migration and workflow optimization for health data management. 
 <br>
-  -Generated and maintained detailed patient treatment reports and performance statistics for executive review and strategic decision-      making. 
-  
+  -Generated and maintained detailed patient treatment reports and performance statistics for executive review and strategic decision-making. 
 ## Education
 <br>
 **BSc in Engineering Physics (With Distinction) - Universidad del Cauca, Colombia · Dec 2024**
@@ -74,7 +73,7 @@ processes, and supporting data-driven decision-making.
 <br>
   -Developed and validated an AI methodology for continuous, non-invasive blood pressure estimation from  physiological signals (ECG,       PPG, HRV, and clinical data). 
 <br>
-  -Evaluated multiple ML and DL architecture, including ensemble methods (XGBoost, GBM, DRF) and neural  networks (RNN, CNN), achieving     MAE = 5.87 mmHg / RMSE = 8.04 mmHg (Systolic Blood Pressure) and MAE =  3.54 mmHg / RMSE = 4.91 mmHg (Diastolic Blood Pressure),         meeting Grade A–B standards of the British Society  of Hypertension. 
+  -Evaluated multiple ML and DL architecture, including ensemble methods (XGBoost, GBM, DRF) and neural  networks (RNN, CNN), achieving     MAE = 5.87 mmHg / RMSE = 8.04 mmHg (Systolic Blood Pressure) and MAE =  3.54 mmHg / RMSE = 4.91 mmHg (Diastolic Blood Pressure), meeting Grade A–B standards of the British Society  of Hypertension. 
 <br>
   -Published a peer-reviewed article: 'Analysis of Electrocardiographic Signals to Assess Heart Rate Variability under   Surgical           Context: A Methodological Proposal.', 2024. 
 <br><br>
