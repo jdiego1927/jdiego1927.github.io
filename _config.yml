@@ -41,10 +41,6 @@ plugins:
 hydejack:
   post_addons:         [about, newsletter, related, random, comments]
   project_addons:      [about, newsletter, other, comments]
-  cover_image:
-    path: /assets/img/background.jpg
-    srcset:
-      1920w: /assets/img/background.jpg
 
   no_mark_external:    false
   no_push_state:       false
