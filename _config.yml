@@ -42,7 +42,7 @@ plugins:
 hydejack:
   post_addons:         [about, newsletter, related, random, comments]
   project_addons:      [about, newsletter, other, comments]
-
+  my_head: _includes/my-head.html
   no_mark_external:    false
   no_push_state:       false
   no_drawer:           false
